@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:statusBarColor">#292929</item>
+        <item name="android:actionBarSize">43dp</item>
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.DeviceDefault.ActionBar">
+        <item name="android:background">#5270BF</item>
+    </style>
+
+</resources>
